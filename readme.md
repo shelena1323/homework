@@ -7,7 +7,7 @@ LICENSE: [MIT](C:\Users\79277\Documents\обучение\git\homework\License.md
 ### Содержание
 1. [Что такое GIT](/what_is_this.md)
 2. [Подготовка к работе](/start.md)
-3. Основные операции
+3. [Основные операции](/basics.md)
 4. GitHub
  
 
