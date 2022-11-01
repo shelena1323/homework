@@ -49,3 +49,9 @@ origin  https://github.com/shelena1323/homework.git (fetch)`
 **`git remote rm <remote-name>`**
 
 Чтобы удалить удаленный репозитарий, перейдите в каталог, в котором хранится ваш репозиторий, и используйте команду git remote rm(или git remote remove), за которой следует имя удаленного репозитария.
+
+---
+
+---
+
+[В начало](/readme.md)
